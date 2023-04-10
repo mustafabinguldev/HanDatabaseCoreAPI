@@ -40,7 +40,7 @@ How to add database?
 
 How to add, remove, fetch and update objects from database?
 ```
-        DatabaseHelper<PlayerScore> databaseHelper = getDatabase("skywars").get().getHelper(PlayerScore.class);
+        DatabaseHelper<PlayerScore> databaseHelper =  HanDatabaseCore.getDatabase("skywars").get().getHelper(PlayerScore.class);
 
         //The first parameter must be 1.
         //Player Name, Kills, Deaths
