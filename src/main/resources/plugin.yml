@@ -1,0 +1,3 @@
+name: HanDatabaseCore
+version: '${project.version}'
+main: tech.bingulhan.handatabasecore.HanDatabaseCore
