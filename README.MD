@@ -26,7 +26,7 @@ Maven
 	<dependency>
 	    <groupId>com.github.BingulHan</groupId>
 	    <artifactId>HanDatabaseCoreAPI</artifactId>
-	    <version>Tag</version>
+	    <version>1.0</version>
 	</dependency>
 ```
 
